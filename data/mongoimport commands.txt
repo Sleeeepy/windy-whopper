@@ -1,0 +1,2 @@
+mongoimport --db nav-dev --collection airports --type csv --headerline --file ../airports.csv
+
